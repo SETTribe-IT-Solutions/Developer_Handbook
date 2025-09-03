@@ -24,3 +24,10 @@ This project follows **semantic versioning** (MAJOR.MINOR.PATCH).
 - Onboarding guide for new joiners
 - Contribution guidelines (PR reviews, approvals)
 - Versioning instructions for CHANGELOG
+
+## [1.1.0] - 2025-09-03
+### Added
+- New documentation: **Project & Task Management** (`project-management.md`)
+  - Defined GitHub Projects (Kanban) usage for task tracking
+  - Setup guide for linking repositories, custom fields, and best practices
+- Updated `README.md` with index entry for easier navigation
