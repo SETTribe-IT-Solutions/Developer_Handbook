@@ -14,6 +14,7 @@ This repository defines the coding standards, best practices, and project workfl
 - [Pull Request Guidelines](#-pull-request-guidelines)
 - [Coding Standards](#-coding-standards)
 - [Environment Setup](#️-environment-setup)
+- [Project & Task Management](./project-management.md) 
 - [Onboarding Guide](#-onboarding-guide)
 - [Contribution Guidelines](#-contribution-guidelines)
 - [Versioning](#-versioning)
