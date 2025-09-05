@@ -58,7 +58,7 @@ Each task must have **2 types of labels**:
 When creating an issue/task, always add:  
 - ✅ Title with prefix  
 - ✅ Labels (task type + priority)  
-- ✅ Man hrs (effort estimate)  
+- ✅ Start Date, Due Date & Man hrs (effort estimate)  
 - ✅ Assignee (responsible person)  
 - ✅ Milestone (sprint/release)  
 
@@ -107,6 +107,8 @@ Using **Kanban + labels + milestones**, we can generate:
 **Labels:** UI/UX, P1  
 **Assignee:** Developer Name  
 **Milestone:** Sprint-1 (Sept 01–15, 2025)  
+**Start Date:** 5 Sept 2025
+**Due Date:** 10 Sept 2025
 **Man hrs:** 8  
 
 ---
